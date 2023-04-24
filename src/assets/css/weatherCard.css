@@ -1,0 +1,13 @@
+
+.temp{
+    font-weight: bold;
+}
+.weather-icon{
+    font-size: 6rem;
+}
+.city{
+    font-size: 1.5rem;
+}
+.card{
+    border-width: 10px;
+}
